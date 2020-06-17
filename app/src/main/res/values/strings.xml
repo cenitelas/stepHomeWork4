@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">stepHomeWork4</string>
+    <string name="activity_main_button_send_message_friend_caption">Send message friend</string>
+    <string name="activity_main_button_registration">Registration</string>
+    <string name="activity_registration_edit_text_login_hint">Login</string>
+    <string name="activity_registration_edit_text_password_hint">Password</string>
+    <string name="activity_registration_button_send_caption">Send</string>
+</resources>
